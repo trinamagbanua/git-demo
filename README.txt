@@ -2,15 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website
 
-
-asgahdlafhlahcahcla
-abdjadkagkagdka
-abdjagdkaka
-
-
-
-sjdjkadagdkag
-ahdgkagdkagdkaj4
-hdajfhahflahfa
+1. index.html
